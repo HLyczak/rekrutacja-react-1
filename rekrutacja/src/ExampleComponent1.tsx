@@ -72,4 +72,3 @@ export default ExampleComponent1;
 //
 //
 //
-//ODP: uruchomi się tylko raz podczas montowania komponentu

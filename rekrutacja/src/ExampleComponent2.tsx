@@ -75,6 +75,3 @@ export default ExampleComponent2;
 //
 //
 //
-//ODP
-// Po pierwszym renderze komponentu (gdy komponent jest montowany).
-// Za każdym razem, gdy wartość count się zmieni (czyli za każdym razem, gdy klikniesz przycisk "Zwiększ").
