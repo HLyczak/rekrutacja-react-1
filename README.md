@@ -1,7 +1,7 @@
 Jak odpalić zadania ?
 
 ```bash
-Git clone git@gitlab.devtechmo.pl:honorata.lyczak/rekrutacja-frontend.git
+Git clone 
 ```
 
 ```bash
