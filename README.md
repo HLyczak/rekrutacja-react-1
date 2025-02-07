@@ -1,7 +1,7 @@
 Jak odpalić zadania ?
 
 ```bash
-Git clone 
+Git clone https://github.com/HLyczak/rekrutacja-react-1.git
 ```
 
 ```bash
